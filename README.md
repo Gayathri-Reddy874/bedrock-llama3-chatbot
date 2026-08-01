@@ -51,7 +51,7 @@ streamlit run bedrock_chatbot.py
 ![AWS configuration panel](Screenshots/config-panel.png)
 
 **Connected and ready to chat**
-![Connected state](screenshots/connected-state.png)
+![Connected state](Screenshots/connected-state.png)
 
 **Sample conversation**
 ![Chat example](screenshots/chat-example.png)
