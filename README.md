@@ -54,7 +54,7 @@ streamlit run bedrock_chatbot.py
 ![Connected state](Screenshots/connected-state.png)
 
 **Sample conversation**
-![Chat example](screenshots/chat-example.png)
+![Chat example](Screenshots/chat-example.png)
 
 ## Project Structure
 
