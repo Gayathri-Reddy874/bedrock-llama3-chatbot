@@ -1,4 +1,4 @@
-# bedrock-llama3-chatbot
+# Bedrock-llama3-chatbot
 
 A ChatGPT-style chatbot UI built with **Streamlit**, powered by **Meta LLaMA 3** models served through **Amazon Bedrock**.
 
