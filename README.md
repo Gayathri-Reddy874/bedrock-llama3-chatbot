@@ -80,7 +80,7 @@ bedrock-llama3-chatbot/
 
 ## Author
 
-**Gayathri** — [GitHub: Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
+**Mallareddygari Gayathri** — [GitHub: Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
 
 ## License
 
