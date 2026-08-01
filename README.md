@@ -60,7 +60,7 @@ streamlit run bedrock_chatbot.py
 
 ```
 bedrock-llama3-chatbot/
-├── bedrock_chatbot.py   # Main Streamlit app
+├── Bedrock_chatbot.py   # Main Streamlit app
 ├── requirements.txt     # Python dependencies
 ├── Screenshots/         # App screenshots used in this README
 └── README.md
