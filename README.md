@@ -6,6 +6,8 @@ A ChatGPT-style chatbot UI built with **Streamlit**, powered by **Meta LLaMA 3**
 ![Streamlit](https://img.shields.io/badge/streamlit-1.35%2B-red)
 ![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-orange)
 
+---
+
 ## Overview
 
 This app lets you chat with LLaMA 3 (8B or 70B Instruct) directly from a browser, using your own AWS Bedrock access. Conversation history is formatted with LLaMA 3's native chat template so the model receives full multi-turn context, not just the latest message.
