@@ -82,6 +82,8 @@ bedrock-llama3-chatbot/
 - Downloadable chat transcripts
 - Dockerfile for one-command deployment
 
+---
+
 ## Author
 
 **Mallareddygari Gayathri** — [GitHub: Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
