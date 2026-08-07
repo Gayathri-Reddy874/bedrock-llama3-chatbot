@@ -66,6 +66,8 @@ streamlit run bedrock_chatbot.py
 **Sample conversation**
 ![Chat example](Screenshots/chat-example.png)
 
+---
+
 ## Project Structure
 
 ```
