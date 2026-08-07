@@ -96,6 +96,8 @@ bedrock-llama3-chatbot/
 
 **Mallareddygari Gayathri** — [GitHub: Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
 
+---
+
 ## License
 
 MIT
