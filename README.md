@@ -32,6 +32,8 @@ This app lets you chat with LLaMA 3 (8B or 70B Instruct) directly from a browser
 - An AWS account with **Bedrock model access enabled** for Meta LLaMA 3 in your chosen region
 - AWS credentials (Access Key ID + Secret Access Key, or temporary credentials with a session token) belonging to an IAM identity with `bedrock:InvokeModel` permission
 
+---
+
 ## Installation
 
 ```bash
