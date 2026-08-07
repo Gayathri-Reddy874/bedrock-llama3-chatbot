@@ -24,6 +24,8 @@ This app lets you chat with LLaMA 3 (8B or 70B Instruct) directly from a browser
 - 🗑️ One-click chat reset
 - ⚠️ Clear error handling for auth and invocation failures
 
+---
+
 ## Requirements
 
 - Python 3.9+
