@@ -42,6 +42,8 @@ cd bedrock-llama3-chatbot
 pip install -r requirements.txt
 ```
 
+---
+
 ## Usage
 
 ```bash
