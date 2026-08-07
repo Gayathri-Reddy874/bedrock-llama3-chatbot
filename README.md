@@ -53,6 +53,8 @@ streamlit run bedrock_chatbot.py
 3. Click **Connect**.
 4. Start chatting in the main window.
 
+---
+
 ## Screenshots
 
 **AWS configuration panel**
