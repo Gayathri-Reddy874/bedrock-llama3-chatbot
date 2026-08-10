@@ -84,7 +84,7 @@ bedrock-llama3-chatbot/
 
 ## Security Notes
 
-- Credentials are stored only in Streamlit's in-memory session state for the duration of the browser session — they are never written to disk, logged, or sent anywhere except directly to AWS via `boto3`.
+- Credentials are stored only in Streamlit's in-memory session state for the duration of the browser session - they are never written to disk, logged, or sent anywhere except directly to AWS via `boto3`.
 - For production use, prefer environment variables, an IAM role, or AWS SSO over pasting long-lived access keys into the UI.
 
 ---
